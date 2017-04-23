@@ -32,5 +32,13 @@
 - User A and C consume enough reputation packages to destroy guild of user B (to increase bot attack power when infecting yourself with bots)
 - Ask user B and D for their IPs, hack them to check their miners cools down, are miners kep hot?
 
-to be continued ...
-- Business test
+### Plan D: Buy and sell bandwidth
+- Configure your guild to sell bandwidth
+- Buy bandwidth from another guild (check numbers on both guilds , bandwidth used/max bandwith / available for rental ..)
+- Check you sold bandwidth
+- After 24 hours, did the rented bandwidth expire?
+- After 24 hours guild bandwidth returned to normal?
+
+### Plan E: Destroy a guild (X) that sold bandwidth to another guild (Y) using guild (Z)
+- Did the guild (Y) IP address appear in the clients/staff file of guild (X) after destruction (must be yes)
+- Did players that attacked the guild (and all the members of their guilds in (Z)) get HC for destroying (X) (1000 HC + total bank of guild (X)) ? - must be yes
